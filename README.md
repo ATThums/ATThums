@@ -4,8 +4,8 @@ Me chamo Anderson Tonin Thums, sou um gaúcho apaixonado por jogos, cinema, mús
 
  <div>
    <a href="https://github.com/atthums">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atthums&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atthums&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atthums&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atthums&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
