@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 
 
-Me chamo Anderson Tonin Thums, sou um gaúcho apaixonado por jogos, cinema, música e outras artes. Sou Desenvolvedor de Jogos Digitais formado pela Universidade de Caxias do Sul (UCS).
+<p style="color: red"> Me chamo Anderson Tonin Thums, sou um gaúcho apaixonado por jogos, cinema, música e outras artes. Sou Desenvolvedor de Jogos Digitais formado pela Universidade de Caxias do Sul (UCS). </p>
 
  <div>
    <a href="https://github.com/atthums">
