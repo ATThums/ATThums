@@ -25,9 +25,9 @@ Me chamo Anderson Tonin Thums, sou um gaúcho apaixonado por jogos, cinema, mús
  
 <div> 
   <a href="https://www.instagram.com/ander_thums" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-tonin-thums-a1a494211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/atthums" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ander.thums@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-tonin-thums-a1a494211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://andersontt.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-%23E4405F?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
- <a href="https://sketchfab.com/AnderTThums" target="_blank"><img src="https://img.shields.io/badge/Sketchfab-%230077B5?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
+  <a href="https://andersontt.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-%23E4405F?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+  <a href="https://sketchfab.com/AnderTThums" target="_blank"><img src="https://img.shields.io/badge/Sketchfab-%230077B5?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
 </div>
